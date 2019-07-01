@@ -1,0 +1,63 @@
+.page{
+    margin:0;
+    position:relative;
+
+}
+.page__header{
+    position:fixed;
+    width:100%
+
+}
+.header__logo-container{
+
+}
+.header__logo{
+
+}
+.header__nav{
+
+}
+.header__nav-container{
+
+}
+.header__nav-item{
+
+}
+.page__main{
+    background-color:#3CDBC0
+    height:100%;
+
+}
+.page__main-title{
+
+}
+@media all and (min-width:768px){
+    .page{
+
+    }
+    .page__header{
+    
+    }
+    .header__logo-container{
+    
+    }
+    .header__logo{
+    
+    }
+    .header__nav{
+    
+    }
+    .header__nav-container{
+    
+    }
+    .header__nav-item{
+    
+    }
+    .page__main{
+    
+    }
+    .page__main-title{
+        
+    }
+
+}
