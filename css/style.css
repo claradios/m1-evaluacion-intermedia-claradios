@@ -38,6 +38,7 @@
 .header__nav-item{
     padding:10px;
     margin-top:10px;
+    text-transform:uppercase;
 }
 .nav-link{
     text-decoration:none;
@@ -58,7 +59,7 @@
 .page__main-title{
     color:white;
     text-decoration:none;
-    
+    text-transform:capitalize;
     
    
 }
