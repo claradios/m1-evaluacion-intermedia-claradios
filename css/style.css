@@ -6,7 +6,6 @@
     font-family: 'Rubik', sans-serif;
     list-style:none;
     text-decoration:none;
-    width:100%;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -27,16 +26,7 @@
 .header__logo-containter{
     transform:translate(20px,0)
 }
-.header-logo{
-    
-}
-.logopic{
-   
-}
-.header__nav{
-    
 
-}
 .header__nav-container{
     background-color:white;
     margin:0;
@@ -53,11 +43,7 @@
     text-decoration:none;
     color:#4a4a4a;
 }
-.page__main{
-    
-    height:100vh;
 
-}
 .page__main-containter{
     margin:0;
     
