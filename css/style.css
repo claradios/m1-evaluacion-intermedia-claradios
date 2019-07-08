@@ -50,19 +50,18 @@
     height:100vh;
     margin:auto;
     text-align:center;
-    position:relative;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 
 }
 .page__main-title{
     color:white;
     text-decoration:none;
-    position:absolute;
-    left:50%;
-    top:50%;
-    transform:translate(-50%,-50%);
+    
+    
    
 }
-
 
 @media all and (min-width:768px){
     .page{
