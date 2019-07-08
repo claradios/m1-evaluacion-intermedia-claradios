@@ -46,8 +46,7 @@
 }
 
 .page__main-containter{
-    margin:0;
-    
+    margin:0;    
     height:100vh;
     margin:auto;
     text-align:center;
@@ -60,6 +59,7 @@
     color:white;
     text-decoration:none;
     text-transform:capitalize;
+    width:200px;
     
    
 }
@@ -70,32 +70,16 @@
     }
     .page__header{
         flex-direction:row;
-        justify-content:space-between;
-        
-    
+        justify-content:space-between;    
     }
     .header__logo-container{
-        margin-left:10px;
-    
+        margin-left:10px;    
     }
     .header__logo{
     
     }
     .header__nav{
-        padding:10px;
-    
-    }
-    .header__nav-container{
-    
-    }
-    .header__nav-item{
-    
-    }
-    .page__main{
-    
-    }
-    .page__main-title{
-        
+        padding:10px;    
     }
 
 }
